@@ -252,7 +252,7 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 
 ### In the final video we create a date table and join our different data sets together so they can be filtered
 
-- First filter the excange rates as we don't have an data as our other data is not as old
+- First filter the exchange  rates as we don't have an data as our other data is not as old
 - Ensure you filter your data as much as possible before loading into PowerBI whilst it can handle very large data sets it will be slower
 - If we use a date slicer it only works on a single data set
 - As each data set has different grains(the level of detail) we cannot just join the dates. They have more than 1 row per date
@@ -263,7 +263,7 @@ Add new Table in Modelling and use the Calendar function
 - I can then join the Date to the other tables on the relationship view
 - Change the slicer to use this date table and we can now filter the different date together
 - We can use similar techniques to join data and build models
-- Dax can also be used to calculate measure accross data that is joined like this
+- Dax can also be used to calculate measure across data that is joined like this
 
 Start File
 https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise%20Video%2011.pbix
