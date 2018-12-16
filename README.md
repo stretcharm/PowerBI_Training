@@ -5,6 +5,9 @@ Introduction to Data Visualisation and Analysis with PowerBI
 Video Playlist
 https://www.youtube.com/watch?v=WM_sS72xGXg&list=PLUIkYG_TQD7wkDrK7L8P7XnLPIl_G7Ugv
 
+Presentation to accompany the training videos
+https://github.com/stretcharm/PowerBI_Training/blob/master/DataViz%20And%20Analysis%20PowerBI%20Session.pptx
+
 ## Video 1 - Start PowerBI Desktop
 
 ### We are going to Open PowerBI and look around some of the toolbars and panes
