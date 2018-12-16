@@ -272,4 +272,4 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 
 ### I've added some more data including UK weather with some more examples of visuals and a more complex models
 
-
+https://github.com/stretcharm/PowerBI_Training/blob/master/UK_Tourism_final.pbix
