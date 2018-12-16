@@ -33,108 +33,88 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 ### We now open a csv file and load the data into PowerBI
 
 - Get Data
--- From Start of Home Toolbar
--- Lots of data source types supported.
-	
+- From Start of Home Toolbar
+	- Lots of data source types supported.
 - Open Csv/text
--- Sample Data provided change delimiter
--- Load or Edit
+	- Sample Data provided change delimiter
+	- Load or Edit
 - Query Editor allows you to change the data after it's loaded
--- Close and Apply
+	- Close and Apply
 - Drag and drop fields to background to add a couple of quick visuals
 - Visuals try to guess what the best type is for the data e.g map for countries
--- Cross highlighting
+	- Cross highlighting
 
 https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise%20Video%201-4.pbix
 
-Video 4 - Improve the Query
+## Video 4 - Improve the Query
 
-Editing the data data we loaded to clean it or make it better for visualisation
+### Editing the data data we loaded to clean it or make it better for visualisation
 
-Save the Document
-We can search for fields 
-	Fields have indicators for different types e.g. Date, Summary, Measure, Calculated Column, Geolocation
-
-Change visuals
-	Click and then select a different visualisation
-
-Edit Query 
-	Opens Query Editor Window
-
-Name our Query( or File we loaded)
-CSV type uses headers from the file
-Rename Columns 
-	F2 or Right mouse rename
-Bar under name gives simple profile data
-Column Dropdown to see list and filter
-
-Lots of toolbar or menu option to help you manipulate you data
+- Save the Document
+- We can search for fields 
+	- Fields have indicators for different types e.g. Date, Summary, Measure, Calculated Column, Geolocation
+- Change visuals
+	- Click and then select a different visualisation
+- Edit Query 
+	- Opens Query Editor Window
+- Name our Query( or File we loaded)
+- CSV type uses headers from the file
+- Rename Columns 
+	- F2 or Right mouse rename
+- Bar under name gives simple profile data
+- Column Dropdown to see list and filter
+- Lots of toolbar or menu option to help you manipulate you data
 
 End File
 https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise%20Video%201-4.pbix
 
-Video 5 - Improve the Query2
+## Video 5 - Improve the Query2
 
-Make some more chages to the Query. Add a Date from the Month and Year data we have
+### Make some more chages to the Query. Add a Date from the Month and Year data we have
 
-Extract Month into a new Column
-Formular bar
-
-Column from example
-	Select columns
-	Enter the Answer in the new Column
-	PowerBI tries to create the code to get you this for all other rows
-	Change name
+- Extract Month into a new Column
+- Formular bar
+- Column from example
+	- Select columns
+	- Enter the Answer in the new Column
+	- PowerBI tries to create the code to get you this for all other rows
+	- Change name
 	
-Change types
-	Try to keep types correct as it can give you problems
-	if a field is not a date or number and you want to to behave like one
-
-Apply
-	Powerbi loads the data and then applys all the changes we make
-	If we change the source then it will reapply the steps we added
-
-	
-Date field shows with data icon and automatically adds a hierarchy
-
-Add date based line/bar
-
-visuals understand the hierarchy 
-	Icons/Right Mouse for drill in/out, expand or go up/down a level
-	Data cross filters
-	We can edit the levels on the visual e.g. remove Quarter
+- Change types
+	- Try to keep types correct as it can give you problems
+	- if a field is not a date or number and you want to to behave like one
+- Apply
+	- Powerbi loads the data and then applys all the changes we make
+	- If we change the source then it will reapply the steps we added
+- Date field shows with data icon and automatically adds a hierarchy
+- Add date based line/bar
+- visuals understand the hierarchy 
+	- Icons/Right Mouse for drill in/out, expand or go up/down a level
+	- Data cross filters
+	- We can edit the levels on the visual e.g. remove Quarter
 
 Start File
 https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise%20Video%201-4.pbix	
 End File
 https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise%20Video%205.pbix
 	
+## Video 6 - Add More visuals
 
-Video 6 - Add More visuals
+### Lets add more visuals from our data
 
-Lets add more visuals from our data
-
-Move/resize the current visuals
-
-Copy (Ctrl C) and Paste (Ctrl V)
-Edit the fields used by the visual
-
-Drage fields onto the visual or the visualisation field lists
-
-Dragging to background creates a new visual
-We can also have tables 
-Hover over shows tool types
-
-Manually create a hierarchy on some visuals by draggin a column to the axies
-
-Format pane of the visial has lots of options
-Visuals also have ... which can control items like sort order
-
-We can add slices to filter that data
-
-Treeview help show the size
-
-Ribbon shows the change by types over time
+- Move/resize the current visuals
+- Copy (Ctrl C) and Paste (Ctrl V)
+- Edit the fields used by the visual
+- Drag fields onto the visual or the visualisation field lists
+- Dragging to background creates a new visual
+	- We can also have tables 
+	- Hover over shows tool tips
+- Manually create a hierarchy on some visuals by draggin a column to the axies
+- Format pane of the visial has lots of options
+	- Visuals also have ... which can control items like sort order
+- We can add slices to filter that data
+- Treeview help show the size
+- Ribbon shows the change by types over time
 
 Start File
 https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise%20Video%205.pbix
