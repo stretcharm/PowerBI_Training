@@ -24,14 +24,14 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 
 ### Here we get sample data for the rest of the training
 
-- Links to webpages to get the sample data
+- Links to web pages to get the sample data
 - https://www.visitbritain.org/inbound-tourism-trends
 - https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/monthlyoverseastravelandtourismreferencetables
 - https://www.ofx.com/en-gb/forex-news/historical-exchange-rates/monthly-average-rates/
 
 https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise%20Video%201-4.pbix
 
-## Video 3 - Get Data from csv File
+## Video 3 - Get Data from a csv File
 
 ### We now open a csv file and load the data into PowerBI
 
@@ -73,10 +73,10 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 
 ## Video 5 - Improve the Query2
 
-### Make some more chages to the Query. Add a Date from the Month and Year data we have
+### Make some more changes to the Query. Add a Date from the Month and Year data we have
 
 - Extract Month into a new Column
-- Formular bar
+- Formula bar
 - Column from example
 	- Select columns
 	- Enter the Answer in the new Column
@@ -87,7 +87,7 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 	- Try to keep types correct as it can give you problems
 	- if a field is not a date or number and you want to to behave like one
 - Apply
-	- Powerbi loads the data and then applys all the changes we make
+	- Powerbi loads the data and then apply all the changes we make
 	- If we change the source then it will reapply the steps we added
 - Date field shows with data icon and automatically adds a hierarchy
 - Add date based line/bar
@@ -112,8 +112,8 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 - Dragging to background creates a new visual
 	- We can also have tables 
 	- Hover over shows tool tips
-- Manually create a hierarchy on some visuals by draggin a column to the axies
-- Format pane of the visial has lots of options
+- Manually create a hierarchy on some visuals by dragging a column to the axes
+- Format pane of the visual has lots of options
 	- Visuals also have ... which can control items like sort order
 - We can add slices to filter that data
 - Treeview help show the size
@@ -139,9 +139,9 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 End File
 https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise%20Video%207.pbix
 
-## Video 8 - Themes and Adding Dax Measure Calculations
+## Video 8 - Themes and Adding DAX Measure Calculations
 
-### This video shows how to create a Dax Measures, grouping/binning and adding Quick Measures
+### This video shows how to create a DAX Measures, grouping/binning and adding Quick Measures
 
 - We can quickly change the colour scheme using themes either built in or we can create our own
 - DAX is the name of the language used to create calculations in PowerBI
@@ -167,12 +167,12 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 	- A new field and icon is created for the group/bin
 	- We can then use this on an axis
 	- We can edit the options to make it suit our needs.
-	- PowerBI does this by creating a Dax in the background for us.
-- We can also make use of Dax Quick Measures which are prebuilt calculatutions
+	- PowerBI does this by creating a DAX in the background for us.
+- We can also make use of DAX Quick Measures which are prebuilt calculatutions
 	- Pick the fields you want and it will create the DAX
 	- You can then edit it or just learn how to write more advanced DAX
-- Here we can create a calculation that shows the spending different from a yearly visit purpose from thtat spend by those
-visiting friends or Relatives
+- Here we can create a calculation that shows the spending differemce from a yearly visit purpose from those spend by visiting friends or Relatives
+
 
 Start File
 https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise%20Video%207.pbix
@@ -205,7 +205,7 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 - The third view is relationships and can show how our data is linked
 - Again we can use the dates and fields to create a visual
 - However the data has a column for each value type this can harder to work with. 
-E.g if we had months columns on or spreadsheet we cannot filter them as they are seperate fields
+E.g if we had months columns on or spreadsheet we cannot filter them as they are separate fields
 
 Start File
 https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise%20Video%208.pbix
@@ -214,7 +214,7 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 
 ## Video 10 - UnPivot the Data
 
-### Here we show how to pivot the columns into rows so the data is easier to work with
+### Here we show how to unpivot the columns into rows so the data is easier to work with
 
 - We start by duplicating our query. 
 	- This is also useful if you want to try something as there is no undo in the query editor
@@ -252,7 +252,7 @@ https://github.com/stretcharm/PowerBI_Training/blob/master/Uk%20Tourism_Exercise
 
 ### In the final video we create a date table and join our different data sets together so they can be filtered
 
-- First filter the exchange  rates as we don't have an data as our other data is not as old
+- First filter the exchange rates as we don't have an data as our other data is not as old
 - Ensure you filter your data as much as possible before loading into PowerBI whilst it can handle very large data sets it will be slower
 - If we use a date slicer it only works on a single data set
 - As each data set has different grains(the level of detail) we cannot just join the dates. They have more than 1 row per date
